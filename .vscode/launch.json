@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch OperatorPrecedence",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task6.OperatorPrecedence",
+            "projectName": "java.syntax.task6"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrePostIncrement",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task6.PrePostIncrement",
+            "projectName": "java.syntax.task6"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegerTypeCasting",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task6.IntegerTypeCasting",
+            "projectName": "java.syntax.task6"
+        },
+        {
+            "name": "Listen for Xdebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9003
+        }
+    ]
+}
